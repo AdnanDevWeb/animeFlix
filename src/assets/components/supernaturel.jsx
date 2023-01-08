@@ -1,4 +1,4 @@
-const Supernaturel =  async () =>{
+const Supernaturel =  () =>{
     return (
         <span></span>
     )

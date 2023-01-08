@@ -1,4 +1,4 @@
-const Drama = async () =>{
+const Drama =  () =>{
     return (
         <span></span>
     )
